@@ -41,7 +41,7 @@ class handler(BaseHTTPRequestHandler):
 
             # 4. Prompt
             system_prompt = """
-                    Du bist ein Experte für KI-Prompts (Midjourney/Stable Diffusion).
+Du bist ein Experte für KI-Prompts (Midjourney/Stable Diffusion).
         
         DEINE AUFGABE:
         Analysiere das hochgeladene Bild (Stil, Licht, Stimmung, technischer Look).
